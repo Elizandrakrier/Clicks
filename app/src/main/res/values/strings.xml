@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Modulo Oito</string>
+    <string name="hint_edit_text">Digite o seu nome</string>
+    <string name="button">Clique aqui</string>
+</resources>
